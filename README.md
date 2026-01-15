@@ -1,3 +1,5 @@
+
+
 # Submission Guide
 
 This folder gathers every notebook and artifact needed to review our image-classification project: data cleaning, experiments, synthetic data attempts, final training, and the ensemble used for the submission.
